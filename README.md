@@ -1,4 +1,4 @@
-KRÓL WZGÓRZA
+KRÓL WZGÓRZA:
     Gra taktyczna z elementami tower defense gdzie gracz chroni swojej pozycji przed coraz silniejszymi falami przeciwników
 
 Planowane funkcjonalności:
