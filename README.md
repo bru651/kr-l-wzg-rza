@@ -14,6 +14,6 @@ Planowane funkcjonalności:
 Wymagane oprogramowanie i użyte technologie:
     - Python3
     - bibliteka pygame
-    - PyInstaller lub inny program do zamieniena gry w progam .exe
+    - PyInstaller lub inny program do zamieniena gry w program .exe
 
 https://github.com/bru651/krol_wzgorza.git
